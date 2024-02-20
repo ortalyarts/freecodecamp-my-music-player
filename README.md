@@ -26,8 +26,8 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
 
 ### Links
 
-- Solution URL: https://github.com/ortalyarts/scrimba-BlackJack-game
-- Live Site URL: https://scrimba-black-jack-game-eta.vercel.app/
+- Solution URL: https://github.com/ortalyarts/freecodecamp-my-music-player
+- Live Site URL: https://freecodecamp-my-music-player.vercel.app/
 
 ## My process
 
